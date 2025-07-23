@@ -1,0 +1,15 @@
+# Build output
+/target
+
+# IntelliJ IDEA
+*.iml
+.idea/
+
+# macOS hidden files
+.DS_Store
+
+# Logs
+*.log
+
+# Node modules (if any)
+node_modules/
